@@ -3,7 +3,7 @@ web_live
 
 #   独立部署
 
-##  下载源码
+##  Fork或下载源码
 
     git clone https://gitee.com/lyhuilin/web_live.git
 
