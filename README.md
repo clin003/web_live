@@ -28,3 +28,7 @@ web_live
 
 *   1、修改 index.html 源码中的对应网址 为自己的地址。
 *   2、上传 index.html 文件到服务器空间 绑定自己的域名，即可访问。
+
+#   云服务器购买地址
+
+https://www.yuque.com/docs/share/97c9ad4e-11ab-4589-b7a1-9860a3dff272?#
