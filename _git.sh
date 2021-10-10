@@ -1,5 +1,10 @@
 git add .
 git commit -m "debug"
-git push
 
-git push -u gitee main
+git remote rename origin github
+
+git add .
+git commit -m "debug"
+
+git push -u github
+git push -u gitee 
